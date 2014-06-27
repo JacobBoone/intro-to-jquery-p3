@@ -1,0 +1,33 @@
+#bigbutton{
+	width: 300px;
+	height: 300px;
+	border-radius: 250px;
+	border-style: none;
+	margin-top: 100px;
+	margin-left: 500px;
+	background-color: red;
+	font-size: 25px;
+	box-shadow: 100px;
+}
+
+
+
+.lightbox {
+height: 100px;
+width: 35%;
+margin-left: 435px;
+margin-top: 200px;
+/*z-index: 1000;*/
+background-color: blue;
+color: white;
+position: fixed;
+}
+
+.close{
+
+	color: black;
+	background-color: lightgreen;
+	/*text-align: center;*/
+	/*position: fixed;*/
+
+}
